@@ -6,6 +6,8 @@ Site da série de micro-vídeos sobre ES6.
 
 Você poderá contribuir coma  criação da identidade visual desse projeto, basta criar um logo, como bem quiser, que **haverá uma votação dia 20 de JUNHO**.
 
+Depois de criar seu logo envie-o listado nesse arquivo via **PULL REQUEST**, caso não saiba fazer isso [veja nossa série sobre Git&Github](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4aACrIx1ECmr8h9esjh16) por favor.
+
 **O ganhador receberá 1 camiseta e 1 adesivo com o seu logo estampado! <3**
 
 ### 1) Romulo
