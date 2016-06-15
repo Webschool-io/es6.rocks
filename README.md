@@ -16,6 +16,8 @@ Você poderá contribuir coma  criação da identidade visual desse projeto, bas
 
 ## Vídeos
 
+### Atalho para nome de atributo em objetos
+
 [![Primeiro vídeo da série](http://i.imgur.com/OVVYpvo.png)](https://www.youtube.com/watch?v=QOW6ej5nHxE&index=1&list=PL77JVjKTJT2gS3pkXAamNG2EakHA53HcS)
 
 
