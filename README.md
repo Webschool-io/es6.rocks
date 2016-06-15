@@ -19,6 +19,9 @@ Depois de criar seu logo envie-o listado nesse arquivo via **PULL REQUEST**, cas
 ### 3) Felipe
 ![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/Felipe-R-S-Abbud-ES6-rocks-logo.png)
 
+### 4) Gian
+![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/giansouza.png)
+
 
 ## Vídeos
 
