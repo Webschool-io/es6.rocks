@@ -4,7 +4,9 @@ Site da série de micro-vídeos sobre ES6.
 
 ## Identidade Visual
 
-Você poderá contribuir coma  criação da identidade visual desse projeto, basta criar um logo, como bem quiser, que **haverá uma votação dia 20 de JUNHO**
+Você poderá contribuir coma  criação da identidade visual desse projeto, basta criar um logo, como bem quiser, que **haverá uma votação dia 20 de JUNHO**.
+
+**O ganhador receberá 1 camiseta e 1 adesivo com o seu logo estampado! <3**
 
 ### 1) Romulo
 ![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/romulomourao.png)
