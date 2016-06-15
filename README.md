@@ -16,6 +16,10 @@ Depois de criar seu logo envie-o listado nesse arquivo via **PULL REQUEST**, cas
 ### 2) Nicholas
 ![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/Nicholas_br_twitter.jpg)
 
+### 3) Felipe
+![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/Felipe-R-S-Abbud-ES6-rocks-logo.png)
+
+
 ## Vídeos
 
 ### 1 - Atalho para nome de atributo em objetos
