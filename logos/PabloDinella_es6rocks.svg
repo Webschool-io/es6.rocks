@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 772.27167 879.36524"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="PabloDinella_es6rocks.svg"
+   width="772.27167"
+   height="879.36523"
+   inkscape:export-filename="/home/pablo/Downloads/es6rocks.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4173"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.70508957"
+     inkscape:cx="-330.18173"
+     inkscape:cy="461.91942"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     transform="scale(1,-1)"
+     d="M 732.27166,-239.841 386.13583,-39.99939 40.000004,-239.841 l 2e-6,-399.68323 346.135834,-199.84161 346.13582,199.84161 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="1.0471976"
+     sodipodi:arg1="0.52359878"
+     sodipodi:r2="346.13583"
+     sodipodi:r1="399.68323"
+     sodipodi:cy="-439.68261"
+     sodipodi:cx="386.13583"
+     sodipodi:sides="6"
+     id="path4277"
+     style="opacity:1;fill:#f7df1e;fill-opacity:1;stroke:#ffffff;stroke-width:80;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:#f7df1e;fill-opacity:1;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path4169"
+     sodipodi:sides="6"
+     sodipodi:cx="386.13583"
+     sodipodi:cy="-439.68261"
+     sodipodi:r1="399.68323"
+     sodipodi:r2="346.13583"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.0471976"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 732.27166,-239.841 386.13583,-39.99939 40.000004,-239.841 l 2e-6,-399.68323 346.135834,-199.84161 346.13582,199.84161 z"
+     transform="scale(1,-1)" />
+  <g
+     id="g4267"
+     transform="matrix(1.0795002,0,0,1.0795002,46.09327,99.640036)">
+    <text
+       sodipodi:linespacing="100%"
+       id="text4143"
+       y="345.41641"
+       x="309.93979"
+       style="font-style:normal;font-weight:normal;font-size:275.38473511px;line-height:100%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Neutra Text';-inkscape-font-specification:'Neutra Text Bold';text-align:center;text-anchor:middle;fill:#000000"
+         y="345.41641"
+         x="309.93979"
+         id="tspan4145"
+         sodipodi:role="line">ES6</tspan><tspan
+         id="tspan4146"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:202.30184937px;line-height:100%;font-family:'Neutra Text';-inkscape-font-specification:'Neutra Text Bold';text-align:center;text-anchor:middle;fill:#000000"
+         y="620.80115"
+         x="309.93979"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4148"
+       y="472.83997"
+       x="90.293106"
+       style="font-style:normal;font-weight:normal;font-size:134.25982666px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Neutra Text';-inkscape-font-specification:'Neutra Text Bold'"
+         y="472.83997"
+         x="90.293106"
+         id="tspan4150"
+         sodipodi:role="line">ROCKS</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4175"
+       d="m 99.825553,130.45908 430.348897,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.35541058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:9.35541058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.825552,499.54092 430.348898,0"
+       id="path4177"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       d="m 250.0665,422.31401 -19.57979,0 21.78162,-44.37472 -49.6627,54.12995 19.57979,0 -21.78162,44.37472 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.83403945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4195" />
+  </g>
+  <!--
+The MIT License (MIT)
+
+Copyright (c) 2011 Christopher Williams <chris@iterativedesigns.com>,
+                     Manuel Strehl <boldewyn@gmail.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+</svg>
