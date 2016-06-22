@@ -23,7 +23,7 @@ Depois de criar seu logo envie-o listado nesse arquivo via **PULL REQUEST**, cas
 ![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/giansouza.png)
 
 ### 5) Pablo Dinella
-<img src="logos/PabloDinella_es6rocks.png" alt="Logo do PabloDinella" width="50%" />
+![](https://raw.githubusercontent.com/Webschool-io/es6.rocks/master/logos/PabloDinella_es6rocks.png)
 
 
 ## Vídeos
