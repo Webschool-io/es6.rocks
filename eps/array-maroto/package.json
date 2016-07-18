@@ -1,0 +1,24 @@
+{
+  "name": "array-maroto",
+  "version": "1.0.0",
+  "description": "Como fazer um array marotinho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maroto",
+    "marotinho",
+    "black",
+    "magic",
+    "magia",
+    "negra",
+    "doidjera",
+    "manooo"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "dependencies": {
+    "random-numbers": "^1.0.4"
+  }
+}
