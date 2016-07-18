@@ -37,6 +37,22 @@ console.log(curso.nome);
 // Be MEAN 
 ```
 
+Podemos ver essa utilização com um exemplo bem simples, a criação de uma lib chamada `is` que irá testar alguns valores:
+
+```js
+const _is = {}
+_is.odd = (val) => (val%2)
+_is.even = (val) => !(val%2)
+
+const is = Object.freeze(_is)
+// const is = _is
+
+is.odd = 'oi'
+```
+
+Com essa pequena mudança, usando `Object.freeze(_is)`, notamos que a função `odd` não é sobrescrita criando assim 1 objeto realmente imutável.
+
+
 Para saber se um objeto está congelado usamos a função `Object.isFrozen(obj)` que rtorna um valor booleano.
 
 Com isso podemos criar um módulo para gerar objetos imutáveis para nós de forma bem simples:
