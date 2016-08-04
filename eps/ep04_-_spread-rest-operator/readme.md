@@ -3,7 +3,7 @@
 Antes que eu lhe explique para que serve isso, irei mostrar um exemplo e aí lhe questionar:
 
 ```js
-let arr = [1, 2];
+const arr = [1, 2];
 console.log(...arr); // 1 2
 ```
 
@@ -12,14 +12,14 @@ console.log(...arr); // 1 2
 **Tá certo meu pequeno gafanhoto, então veja esse exemplo:**
 
 ```js
-let sum = (a, b) => a + b
+let somar = (a, b) => a + b
 ```
 
-**Fácil né? Então como você usaria aquele operador *spread* nessa função `sum`?**
+**Fácil né? Então como você usaria aquele operador *spread* nessa função `somar`?**
 
 > Não entendi.
 
-**Beleza, então perceba que no primeiro exemplo ele pegou 1 *Array* e PASSOU/MOSTROU 1 elemento por vez, ou, em separado.**
+**Beleza, então perceba que no primeiro exemplo ele pegou 1 *array* e PASSOU/MOSTROU 1 elemento por vez, ou, em separado.**
 
 Por exemplo:
 
@@ -29,14 +29,72 @@ console.log(1, 2); // 1 2
 ```
 
 > Ahhhhh agora facilitou!
-> Se oa função sum recebe cada parâmetro por vírgula igual ao console.log, basta eu usar `sum(...arr)` certo?
+> Se a função somar recebe cada parâmetro por vírgula igual ao console.log, basta eu usar `somar(...arr)` certo?
 
+**EXATAMENTE!!! Viu que simples?**
 
-**EXATAMENTE!!!**
+Além disso é muito comum termos uma função assim:
 
-Viu que simples?
+```js
+function somar(x, y) { return x + y }
+```
 
-E isso é muito útil pelo que percebemos...
+E fazermos o seguinte para utilizar 1 *array* como parâmetro de uma função: 
+
+```js
+var valores = [1,2];
+somar.apply(null, valores);
+```
+
+```js
+function somar(x, y) { }
+var valores = [1, 2];
+somar(...valores);
+```
+
+Além disso também conhecemos muito bem nosso querido `arguments`:
+
+```js
+function teste() { console.log('arguments', arguments) }
+teste(1,2,3,4,5,6)
+// arguments [1, 2, 3, 4, 5, 6]
+```
+
+Legal, então o `arguments` é um *array* com os valores dos parâmetraos que entraram, correto?
+
+Então vamos tentar somar esses valores?
+
+```js
+function somar() { return arguments.reduce((a,b) => a+b) }
+somar(1,2,3,4,5,6)
+// Uncaught TypeError: arguments.reduce is not a function(…)
+```
+
+> Ué deu merda aí tio Suissa!
+
+**Realmente! Então para resolver esse problema usamos o *rest parameter*.**
+
+```js
+function somar(...arguments) { return arguments.reduce((a,b) => a+b) }
+somar(1,2,3,4,5,6)
+// 21
+```
+
+Fora isso sabemos que as *arrow functions* não possuem `arguments`, então essa função irá dar merda:
+
+```js
+const somar = () => { return arguments.reduce((a,b) => a+b) }
+somar(1,2,3,4,5,6)
+// Uncaught ReferenceError: arguments is not defined
+```
+
+Para *corrigir* isso podemos fazer o seguinte:
+
+```js
+const somar = (...arguments) => { return arguments.reduce((a,b) => a+b) }
+somar(1,2,3,4,5,6)
+// 21
+```
 
 Referências:
 
