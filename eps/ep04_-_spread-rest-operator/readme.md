@@ -58,12 +58,12 @@ Além disso também conhecemos muito bem nosso querido `arguments`:
 ```js
 function teste() { console.log('arguments', arguments) }
 teste(1,2,3,4,5,6)
-// arguments [1, 2, 3, 4, 5, 6]
+// arguments { '0': 1, '1': 2, '2': 3, '3': 4, '4': 5, '5': 6 }
 ```
 
-Legal, então o `arguments` é um *array* com os valores dos parâmetraos que entraram, correto?
+Legal, então o `arguments` **não** é um *array*, com os valores dos parâmetros que entraram, como acharíamos que deveria ser, correto?
 
-Então vamos tentar somar esses valores?
+Se tentar somar esses valores, como se fosse *Array*, vai dar **MERDA**:
 
 ```js
 function somar() { return arguments.reduce((a,b) => a+b) }
@@ -71,7 +71,7 @@ somar(1,2,3,4,5,6)
 // Uncaught TypeError: arguments.reduce is not a function(…)
 ```
 
-> Ué deu merda aí tio Suissa!
+> Deu merda isso aí tio Suissa!
 
 **Realmente! Então para resolver esse problema usamos o *rest parameter*.**
 
