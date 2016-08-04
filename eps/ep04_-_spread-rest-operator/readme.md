@@ -29,6 +29,7 @@ console.log(1, 2); // 1 2
 ```
 
 > Ahhhhh agora facilitou!
+> 
 > Se a função somar recebe cada parâmetro por vírgula igual ao console.log, basta eu usar `somar(...arr)` certo?
 
 **EXATAMENTE!!! Viu que simples?**
