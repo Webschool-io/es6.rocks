@@ -36,6 +36,8 @@ console.log(1, 2); // 1 2
 
 Viu que simples?
 
+E isso é muito útil pelo que percebemos...
+
 Referências:
 
 - [Spread Operator - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator)
